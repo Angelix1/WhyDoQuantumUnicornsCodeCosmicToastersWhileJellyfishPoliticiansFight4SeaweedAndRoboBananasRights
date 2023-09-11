@@ -1,4 +1,4 @@
-## Ok enough... you didn't listen to me.
+## Okay, that's enough... You didn't listen to me.
 
 <!-- 
 Really, even the source code too??? 
