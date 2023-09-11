@@ -16,12 +16,12 @@ But if you came here because you want to contribute to `QuantumCodeUnicorn`, her
 - Make us feel good.
 
 -->
-
 [<img align="right" height="100" src="shapes.png">](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/examples/Examples.md "Click here for the examples page.")
 ## WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights
 > or shorten to 
-# `QuantumCodeUnicorn`
+# `QuantumCodeUnicorn` 
 
+> <img align="centered" src="./badges/coverage-109.svg" alt="Image Description">
 WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights or <b>`QuantumCodeUnicorn`</b> is the most perfect programming language. These are its features!<br>
 When you've finished reading through all the features, check out the [examples](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/Examples.md).
 
