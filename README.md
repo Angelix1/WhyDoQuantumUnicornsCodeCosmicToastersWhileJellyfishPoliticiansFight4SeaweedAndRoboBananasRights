@@ -21,7 +21,7 @@ But if you came here because you want to contribute to DreamBerd, here are some 
 # DreamBerd
 
 DreamBerd is a perfect programming language. These are its features!<br>
-When you've finished reading through all the features, check out the /examples
+When you've finished reading through all the features, check out the [examples](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/Examples.md).
 
 ## Exclamation Marks!
 
