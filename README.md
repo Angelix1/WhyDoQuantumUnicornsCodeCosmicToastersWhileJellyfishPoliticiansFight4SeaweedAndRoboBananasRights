@@ -17,12 +17,11 @@ But if you came here because you want to contribute to DreamBerd, here are some 
 
 > TheDreamBerdagen recently featured DreamBerd. Watch it [here](https://youtu.be/tDexugp8EmM).
 
-[<img align="right" height="100" src="dreamberd.svg">](https://github.com/TodePond/DreamBerd/blob/main/examples/Examples.md "Click here for the examples page.")
-
+[<img align="right" height="100" src="shapes.png">](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/examples/Examples.md "Click here for the examples page.")
 # DreamBerd
 
 DreamBerd is a perfect programming language. These are its features!<br>
-When you've finished reading through all the features, check out the [examples](https://github.com/TodePond/DreamBerd/blob/main/Examples.md).
+When you've finished reading through all the features, check out the /examples
 
 ## Exclamation Marks!
 
@@ -427,7 +426,7 @@ import add!
 add(3, 2)!
 ```
 
-By the way, to see DreamBerd in action, check out [this page](https://github.com/TodePond/DreamBerd/blob/main/LICENSE.md).
+By the way, to see DreamBerd in action, check out [this page](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/LICENSE.md).
 
 ## Classes
 
@@ -757,7 +756,7 @@ If the compiler refuses at first, politely reassure it. For example:<br>
 
 ## Highlighting
 
-Syntax highlighting is now available for DreamBerd in VSCode. To enable it, install a [highlighting extension](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight) and then use the [DreamBerd configuration file](https://github.com/TodePond/DreamBerd/blob/main/.vscode/settings.json).
+Syntax highlighting is now available for DreamBerd in VSCode. To enable it, install a [highlighting extension](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight) and then use the [DreamBerd configuration file](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/.vscode/settings.json).
 
 This is what it looks like:
 
@@ -770,7 +769,7 @@ print(name)! // "Luke"
 
 ## Examples
 
-For examples of DreamBerd in action, check out the [examples page](https://github.com/TodePond/DreamBerd/blob/main/test/Examples.md)!
+For examples of DreamBerd in action, check out the [examples page](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/test/Examples.md)!
 
 
 
