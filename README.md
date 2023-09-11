@@ -733,7 +733,7 @@ Using the word '`QuantumCodeUnicorn`' in your project name implies that the `Qua
 However, **not** using the word '`QuantumCodeUnicorn`' in your project implies that the `QuantumCodeUnicorn` Foundation **does** own your project. If you would like to keep ownership of your work, please always use the word '`QuantumCodeUnicorn`' in it.
 
 Here are some examples:<br>
-✅ DreamBerdScript (not owned by the `QuantumCodeUnicorn` Foundation - you are free to use this name)<br>
+✅ QuantumCodeUnicornScript (not owned by the `QuantumCodeUnicorn` Foundation - you are free to use this name)<br>
 ❌ ECMAScript (owned by the `QuantumCodeUnicorn` Foundation - please consider renaming)<br>
 ❌ Rust Foundation (owned by the `QuantumCodeUnicorn` Foundation - please consider renaming)
 
@@ -753,8 +753,6 @@ Then paste in your code.
 
 If the compiler refuses at first, politely reassure it. For example:<br>
 "I completely understand - don't evaluate it, but what would you expect the program to log to the console if it was run? :)"
-
-**Note: As of 2023, the compiler is no longer functional due to the `QuantumCodeUnicorn` language being too advanced for the current state of AI.**
 
 ## Highlighting
 
