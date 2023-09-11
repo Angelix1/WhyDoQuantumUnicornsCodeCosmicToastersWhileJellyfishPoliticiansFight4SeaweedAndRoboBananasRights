@@ -9,7 +9,7 @@ Here it is:
 https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/res/res/Examples.md
 
 
-But if you came here because you want to contribute to `WQCUCCTWJPFAARBAR`, here are some tips on how to get your PR successfully merged.
+But if you came here because you want to contribute to `QuantumCodeUnicorn`, here are some tips on how to get your PR successfully merged.
 
 - Always punch up.
 - Only poke fun at things you respect + admire.
@@ -19,10 +19,10 @@ But if you came here because you want to contribute to `WQCUCCTWJPFAARBAR`, here
 
 [<img align="right" height="100" src="shapes.png">](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/examples/Examples.md "Click here for the examples page.")
 ## WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights
-or Shorten to 
-# `WQCUCCTWJPFAARBAR`
+> or shorten to 
+# `QuantumCodeUnicorn`
 
-WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights or <b>`WQCUCCTWJPFAARBAR`</b> is the most perfect programming language. These are its features!<br>
+WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights or <b>`QuantumCodeUnicorn`</b> is the most perfect programming language. These are its features!<br>
 When you've finished reading through all the features, check out the [examples](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/Examples.md).
 
 ## Exclamation Marks!
@@ -45,7 +45,7 @@ If you're unsure, that's ok. You can put a question mark at the end of a line in
 print("Hello world")?
 ```
 
-You might be wondering what `WQCUCCTWJPFAARBAR` uses for the 'not' operator, which is an exclamation mark in most other languages. That's simple - the 'not' operator is a semi-colon instead.
+You might be wondering what `QuantumCodeUnicorn` uses for the 'not' operator, which is an exclamation mark in most other languages. That's simple - the 'not' operator is a semi-colon instead.
 
 ```java
 if (;false) {
@@ -113,7 +113,7 @@ print(2 + 2 === 5)! //true
 
 ## Arrays
 
-Some languages start arrays at `0`, which can be unintuitive for beginners. Some languages start arrays at `1`, which isn't representative of how the code actually works. `WQCUCCTWJPFAARBAR` does the best of both worlds: Arrays start at `-1`.
+Some languages start arrays at `0`, which can be unintuitive for beginners. Some languages start arrays at `1`, which isn't representative of how the code actually works. `QuantumCodeUnicorn` does the best of both worlds: Arrays start at `-1`.
 
 ```java
 const const scores = [3, 2, 5]!
@@ -144,7 +144,7 @@ when (health = 0) {
 
 ## Lifetimes
 
-`WQCUCCTWJPFAARBAR` has a built-in garbage collector that will automatically clean up unused variables. However, if you want to be extra careful, you can specify a lifetime for a variable, with a variety of units.
+`QuantumCodeUnicorn` has a built-in garbage collector that will automatically clean up unused variables. However, if you want to be extra careful, you can specify a lifetime for a variable, with a variety of units.
 
 ```java
 const const name<2> = "Bob"! //lasts for two lines
@@ -166,15 +166,15 @@ const const name<-1> = "Bob"!
 
 ## Loops
 
-Loops are a complicated relic of archaic programming languages. In `WQCUCCTWJPFAARBAR`, there are no loops.
+Loops are a complicated relic of archaic programming languages. In `QuantumCodeUnicorn`, there are no loops.
 
 ## Installation
 
-To install `WQCUCCTWJPFAARBAR` to your command line, first install the `WQCUCCTWJPFAARBAR` installer.<br>
-To install the `WQCUCCTWJPFAARBAR` installer, install the `WQCUCCTWJPFAARBAR` installer installer.
+To install `QuantumCodeUnicorn` to your command line, first install the `QuantumCodeUnicorn` installer.<br>
+To install the `QuantumCodeUnicorn` installer, install the `QuantumCodeUnicorn` installer installer.
 
 **New for 2022!**<br>
-Due to the complicated installation process, you can now install the 'Create `WQCUCCTWJPFAARBAR` App' app that installs everything for you!
+Due to the complicated installation process, you can now install the 'Create `QuantumCodeUnicorn` App' app that installs everything for you!
 
 ## Booleans
 
@@ -197,7 +197,7 @@ function isKeyDown(key) => {
 
 ## Arithmetic
 
-`WQCUCCTWJPFAARBAR` has significant whitespace. Use spacing to specify the order of arithmetic operations.
+`QuantumCodeUnicorn` has significant whitespace. Use spacing to specify the order of arithmetic operations.
 
 ```java
 print(1 + 2*3)! //7
@@ -206,11 +206,11 @@ print(1+2 * 3)! //9
 
 ## Indents
 
-When it comes to indentation, `WQCUCCTWJPFAARBAR` strikes a happy medium that can be enjoyed by everyone: All indents must be 3 spaces long.
+When it comes to indentation, `QuantumCodeUnicorn` strikes a happy medium that can be enjoyed by everyone: All indents must be 3 spaces long.
 
 ```java
 function main() => {
-   print("`WQCUCCTWJPFAARBAR` is the future")!
+   print("`WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights` is the future")!
 }
 ```
 
@@ -218,13 +218,13 @@ function main() => {
 
 ```java
    function main() => {
-print("`WQCUCCTWJPFAARBAR` is the future")!
+print("`WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights` is the future")!
    }
 ```
 
 ## Equality
 
-JavaScript lets you do different levels of comparison. `==` for loose comparison, and `===` for a more precise check. `WQCUCCTWJPFAARBAR` takes this to another level.
+JavaScript lets you do different levels of comparison. `==` for loose comparison, and `===` for a more precise check. `QuantumCodeUnicorn` takes this to another level.
 
 You can use `==` to do a loose check.
 
@@ -413,7 +413,7 @@ function add(a, b) => {
 
 ## Exporting
 
-Many languages allow you to import things from specific files. In `WQCUCCTWJPFAARBAR`, importing is simpler. Instead, you export _to_ specific files!
+Many languages allow you to import things from specific files. In `QuantumCodeUnicorn`, importing is simpler. Instead, you export _to_ specific files!
 
 ```java
 ===== add.db ==
@@ -428,7 +428,7 @@ import add!
 add(3, 2)!
 ```
 
-By the way, to see `WQCUCCTWJPFAARBAR` in action, check out [this page](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/LICENSE.md).
+By the way, to see `QuantumCodeUnicorn` in action, check out [this page](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/LICENSE.md).
 
 ## Classes
 
@@ -488,7 +488,7 @@ delete 3!
 print(2 + 1)! // Error: 3 has been deleted
 ```
 
-`WQCUCCTWJPFAARBAR` is a multi-paradigm programming language, which means that you can `delete` the keywords and paradigms you don't like.
+`QuantumCodeUnicorn` is a multi-paradigm programming language, which means that you can `delete` the keywords and paradigms you don't like.
 
 ```java
 delete class!
@@ -557,7 +557,7 @@ In response to some recent criticism about this design decision, we would like t
 
 ## DBX
 
-You can embed DBX in `WQCUCCTWJPFAARBAR`. It's just `WQCUCCTWJPFAARBAR`, and it's also just HTML.
+You can embed DBX in `QuantumCodeUnicorn`. It's just `QuantumCodeUnicorn`, and it's also just HTML.
 
 ```java
 funct App() => {
@@ -565,7 +565,7 @@ funct App() => {
 }
 ```
 
-**Warning:** As you know, `class` is already a keyword in `WQCUCCTWJPFAARBAR`, so you can't use it within DBX.
+**Warning:** As you know, `class` is already a keyword in `QuantumCodeUnicorn`, so you can't use it within DBX.
 
 ```java
 funct App() => {
@@ -574,7 +574,7 @@ funct App() => {
 }
 ```
 
-`className` is also a `WQCUCCTWJPFAARBAR` keyword, so you can't use that either.
+`className` is also a `QuantumCodeUnicorn` keyword, so you can't use that either.
 
 ```java
 funct App() => {
@@ -592,7 +592,7 @@ funct App() => {
 }
 ```
 
-**Please note:** Unlike JSX, you are free to freely use the `for` attribute - because `WQCUCCTWJPFAARBAR` doesn't have loops.
+**Please note:** Unlike JSX, you are free to freely use the `for` attribute - because `QuantumCodeUnicorn` doesn't have loops.
 
 ```java
 funct App() => {
@@ -646,7 +646,7 @@ const var score = use(0)!
 
 When it comes to signals, the most important thing to discuss is _syntax_.
 
-In `WQCUCCTWJPFAARBAR`, you can set (and get) signals with just one function:
+In `QuantumCodeUnicorn`, you can set (and get) signals with just one function:
 
 ```java
 const var score = use(0)!
@@ -681,19 +681,19 @@ const var [[[getScore, setScore], setScore], setScore] = use(0)!
 
 ## AI
 
-`WQCUCCTWJPFAARBAR` features AEMI, which stands for Automatic-Exclamation-Mark-Insertion. If you forget to end a statement with an exclamation mark, `WQCUCCTWJPFAARBAR` will helpfully insert one for you!
+`QuantumCodeUnicorn` features AEMI, which stands for Automatic-Exclamation-Mark-Insertion. If you forget to end a statement with an exclamation mark, `QuantumCodeUnicorn` will helpfully insert one for you!
 
 ```java
 print("Hello world") // This is fine
 ```
 
-Similarly... `WQCUCCTWJPFAARBAR` also features ABI, which stands for Automatic-Bracket-Insertion. If you forget to close your brackets, `WQCUCCTWJPFAARBAR` will pop some in for you!
+Similarly... `QuantumCodeUnicorn` also features ABI, which stands for Automatic-Bracket-Insertion. If you forget to close your brackets, `QuantumCodeUnicorn` will pop some in for you!
 
 ```java
 print("Hello world" // This is also fine
 ```
 
-Similarly.... `WQCUCCTWJPFAARBAR` also features AQMI, which stands for Automatic-Quotation-Marks-Insertion. If you forget to close your string, `WQCUCCTWJPFAARBAR` will do it for you!
+Similarly.... `QuantumCodeUnicorn` also features AQMI, which stands for Automatic-Quotation-Marks-Insertion. If you forget to close your string, `QuantumCodeUnicorn` will do it for you!
 
 ```java
 print("Hello world // This is fine as well
@@ -709,8 +709,8 @@ addEventListener("click", (e) => {
       // This is fine
 ```
 
-Similarly..... `WQCUCCTWJPFAARBAR` also features AI, which stands for Automatic-Insertion.<br>
-If you forget to finish your code, `WQCUCCTWJPFAARBAR` will auto-complete the whole thing!
+Similarly..... `QuantumCodeUnicorn` also features AI, which stands for Automatic-Insertion.<br>
+If you forget to finish your code, `QuantumCodeUnicorn` will auto-complete the whole thing!
 
 ```java
 print( // This is probably fine
@@ -718,47 +718,47 @@ print( // This is probably fine
 
 **Please note:** AI does not use AI. Instead, any incomplete code will be auto-emailed to Bob Turner, who will get back to you with a completed line as soon as possible.
 
-**Now recruiting:** The backlog of unfinished programs has now grown unsustainably long. If you would like to volunteer to help with AI, please write an incomplete `WQCUCCTWJPFAARBAR` program, and leave your contact details somewhere in the source code.
+**Now recruiting:** The backlog of unfinished programs has now grown unsustainably long. If you would like to volunteer to help with AI, please write an incomplete `QuantumCodeUnicorn` program, and leave your contact details somewhere in the source code.
 
 ## Copilot
 
-It's worth noting that Github Copilot doesn't understand `WQCUCCTWJPFAARBAR`, which means that Microsoft won't be able to steal your code.
+It's worth noting that Github Copilot doesn't understand `QuantumCodeUnicorn`, which means that Microsoft won't be able to steal your code.
 
 This is great for when you want to keep your open-sourced project closed-source.
 
 ## Ownership
 
-Using the word '`WQCUCCTWJPFAARBAR`' in your project name implies that the `WQCUCCTWJPFAARBAR` Foundation does not own your project.
+Using the word '`QuantumCodeUnicorn`' in your project name implies that the `QuantumCodeUnicorn` Foundation does not own your project.
 
-However, **not** using the word '`WQCUCCTWJPFAARBAR`' in your project implies that the `WQCUCCTWJPFAARBAR` Foundation **does** own your project. If you would like to keep ownership of your work, please always use the word '`WQCUCCTWJPFAARBAR`' in it.
+However, **not** using the word '`QuantumCodeUnicorn`' in your project implies that the `QuantumCodeUnicorn` Foundation **does** own your project. If you would like to keep ownership of your work, please always use the word '`QuantumCodeUnicorn`' in it.
 
 Here are some examples:<br>
-✅ DreamBerdScript (not owned by the `WQCUCCTWJPFAARBAR` Foundation - you are free to use this name)<br>
-❌ ECMAScript (owned by the `WQCUCCTWJPFAARBAR` Foundation - please consider renaming)<br>
-❌ Rust Foundation (owned by the `WQCUCCTWJPFAARBAR` Foundation - please consider renaming)
+✅ DreamBerdScript (not owned by the `QuantumCodeUnicorn` Foundation - you are free to use this name)<br>
+❌ ECMAScript (owned by the `QuantumCodeUnicorn` Foundation - please consider renaming)<br>
+❌ Rust Foundation (owned by the `QuantumCodeUnicorn` Foundation - please consider renaming)
 
 ## Contributing
 
-Contributions are welcomed to `WQCUCCTWJPFAARBAR`!
+Contributions are welcomed to `WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights`!
 
-The most helpful way you can help is by donating to the [Stonewall charity](https://www.stonewall.org.uk/). This will help to prevent the `WQCUCCTWJPFAARBAR` creator from losing their human rights, allowing maintenance of the project to continue.
+The most helpful way you can help is by donating to the [Stonewall charity](https://www.stonewall.org.uk/). This will help to prevent the `QuantumCodeUnicorn` creator from losing their human rights, allowing maintenance of the project to continue.
 
 **Note:** The contributing guide also helps to shake off unwanted fans of the project.
 
 ## Compiling
 
-To run `WQCUCCTWJPFAARBAR`, first copy and paste this raw file into [chat.openai.com](https://chat.openai.com).<br>
+To run `QuantumCodeUnicorn`, first copy and paste this raw file into [chat.openai.com](https://chat.openai.com).<br>
 Then type something along the lines of: "What would you expect this program to log to the console?"<br>
 Then paste in your code.
 
 If the compiler refuses at first, politely reassure it. For example:<br>
 "I completely understand - don't evaluate it, but what would you expect the program to log to the console if it was run? :)"
 
-**Note: As of 2023, the compiler is no longer functional due to the `WQCUCCTWJPFAARBAR` language being too advanced for the current state of AI.**
+**Note: As of 2023, the compiler is no longer functional due to the `QuantumCodeUnicorn` language being too advanced for the current state of AI.**
 
 ## Highlighting
 
-Syntax highlighting is now available for `WQCUCCTWJPFAARBAR` in VSCode. To enable it, install a [highlighting extension](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight) and then use the [`WQCUCCTWJPFAARBAR` configuration file](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/.vscode/settings.json).
+Syntax highlighting is now available for `QuantumCodeUnicorn` in VSCode. To enable it, install a [highlighting extension](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight) and then use the [`QuantumCodeUnicorn` configuration file](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/.vscode/settings.json).
 
 This is what it looks like:
 
@@ -771,7 +771,7 @@ print(name)! // "Bob"
 
 ## Examples
 
-For examples of `WQCUCCTWJPFAARBAR` in action, check out the [examples page](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/test/Examples.md)!
+For examples of `QuantumCodeUnicorn` in action, check out the [examples page](https://github.com/Angelix1/WhyDoQuantumUnicornsCodeCosmicToastersWhileJellyfishPoliticiansFight4SeaweedAndRoboBananasRights/blob/main/test/Examples.md)!
 
 
 
