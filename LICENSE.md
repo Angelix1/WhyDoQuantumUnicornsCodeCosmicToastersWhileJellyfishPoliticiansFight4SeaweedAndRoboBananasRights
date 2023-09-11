@@ -62,3 +62,11 @@ when (i < 10) {
 ```java
 delete null!
 ```
+
+## If You Feel Chaotic You Can do This
+```java
+delete universe!!!!!!!!!!!
+```
+
+
+
